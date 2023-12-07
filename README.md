@@ -25,5 +25,5 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: (https://github.com/Rrashdi/Frontendmentor-newsletter-subscription)
+- Live Site URL: (https://rrashdi.github.io/Frontendmentor-newsletter-subscription/)
